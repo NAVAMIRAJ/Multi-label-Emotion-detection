@@ -8,6 +8,7 @@ This project performs multi-label classification of text into five emotion categ
 - `ReadMe.md` — Instructions
 - `model_notebook.ipynb` — Training notebook
 - `main.py` — Prediction script
+- `track-a.csv` — Dataset
 
 ## Setup Instructions
 
