@@ -6,7 +6,7 @@ This project performs multi-label classification of text into five emotion categ
 ## Contents
 
 - `ReadMe.md` — Instructions
-- `NLP_milestone3_model_training.ipynb` — Training notebook
+- `model_notebook.ipynb` — Training notebook
 - `main.py` — Prediction script
 
 ## Setup Instructions
